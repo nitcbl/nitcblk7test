@@ -296,8 +296,8 @@ body
   
   left: 0;
   right: 0;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
+  -webkit-transition-duration: 1s; /* Safari */
+  transition-duration: 1s;
 }
 
 .button2:hover {
